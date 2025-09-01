@@ -27,3 +27,10 @@ The chatbot supports **multi-threaded responses** for better concurrency and use
 ---
 
 ## 📂 Project Structure
+chatbot/
+│── chatbot_frontend_threading.py
+│── chatbot_frontend.py
+│── chatbot_backebd.py
+│── requirements.txt # Python dependencies
+│── README.md # Project documentation
+│── .env # API keys & secrets
