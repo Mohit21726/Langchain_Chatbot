@@ -24,13 +24,4 @@ The chatbot supports **multi-threaded responses** for better concurrency and use
 - **Threading** – For concurrent chatbot responses  
 - **API** – External API integration for market/financial data  
 
----
 
-## 📂 Project Structure
-chatbot/
-│── chatbot_frontend_threading.py
-│── chatbot_frontend.py
-│── chatbot_backebd.py
-│── requirements.txt # Python dependencies
-│── README.md # Project documentation
-│── .env # API keys & secrets
