@@ -24,4 +24,12 @@ The chatbot supports **multi-threaded responses** for better concurrency and use
 - **Threading** – For concurrent chatbot responses  
 - **API** – External API integration for market/financial data  
 
+##Setup
+python -m venv venv
+source venv/bin/activate   # (Linux/Mac)
+venv\Scripts\activate      # (Windows)
+pip install -r requirements.txt
 
+GEMINI_API_KEY=your_llm_api_key
+FINANCE_API_KEY=your_finance_api_key
+LANGSMITH_API_KEY=your_langsmith_api_key
