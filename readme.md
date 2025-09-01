@@ -29,7 +29,8 @@ The chatbot supports **multi-threaded responses** for better concurrency and use
 - source venv/bin/activate   # (Linux/Mac)
 - venv\Scripts\activate      # (Windows)
 - pip install -r requirements.txt
-- **.ENV**
+
+##.ENV
 - GEMINI_API_KEY=your_llm_api_key
 - FINANCE_API_KEY=your_finance_api_key
 - LANGSMITH_API_KEY=your_langsmith_api_key
